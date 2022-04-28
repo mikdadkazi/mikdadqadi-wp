@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mikdadqadi-wp
-- 👀 I’m interested in Web developement
+- 👋 Hi, I’m Mikdad Kazi
+- 👀 I’m interested in Web developement, new techs etc
 - 🌱 I’m currently learning Wordpess and Front-end Design
 - 💞️ I’m looking to collaborate on Web-Developement
 - 📫 This is my email address (mikdadkazi.wp@gmail.com)
